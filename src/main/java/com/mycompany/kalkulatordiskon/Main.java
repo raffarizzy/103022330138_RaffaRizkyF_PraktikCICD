@@ -9,6 +9,7 @@ public class Main {
         KalkulatorDiskon kalkulator = new KalkulatorDiskon();
 
         System.out.println("=== Kalkulator Diskon (Refactored) ===");
+        System.out.println("Selamat Datang!");
 
         System.out.print("Masukkan harga asli: ");
         double hargaAsli = scanner.nextDouble();
